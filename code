@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Codtech IT Solutions Pvt. Ltd</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 5;
+            padding: 10;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background-color: #4a4a4a;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            width: 80%;
+            max-width: 800px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .content {
+            margin-top: 20px;
+        }
+        .content h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        .content ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .content ul li {
+            margin-bottom: 5px;
+        }
+        .perks {
+            margin-top: 20px;
+        }
+        .perks ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .perks ul li {
+            margin-bottom: 5px;
+        }
+        .footer {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .footer p {
+            margin: 5px 0;
+        }
+        .footer .highlight {
+            font-weight: bold;
+        }
+        .footer .note {
+            font-size: 12px;
+        }
+        .image-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            CODTECH IT SOLUTIONS PVT. LTD
+        </div>
+        <div class="content">
+            <h2>Internship and Perks offered</h2>
+            <ul>
+                <li>1. UI/UX Design</li>
+                <li>2. Full stack web development</li>
+                <li>3. Software Development</li>
+                <li>4. Cloud Computing</li>
+                <li>5. Data Analytics</li>
+                <li>6. Python Programming</li>
+                <li>7. App Development</li>
+            </ul>
+        </div>
+        <div class="perks">
+            <h2>Perks</h2>
+            <ul>
+                <li>1. Offer Letter</li>
+                <li>2. Completion Certificate</li>
+                <li>3. Placement Support</li>
+                <li>4. Mentor Guidance</li>
+            </ul>
+        </div>
+        <div class="image Portfolio">
+            <img src=c:\Users\Syed Shafaiz\Pictures\Screenshots\Screenshot 2024-12-13 224603.png>
+    <img src=c:\Users\Syed Shafaiz\Pictures\Screenshots\Screenshot 2024-12-13 224603.png>
+        </div>
+        <div class="footer">
+            <p class="highlight">WE ARE HIRING!</p>
+            <p>Internship opportunity at CODTECH IT SOLUTIONS!</p>
+            <p class="note"># Hands-on projects</p>
+            <p class="note">Expert Guidance</p>
+            <p class="highlight">GRAB THE OPPORTUNITY</p>
+        </div>
+    </div>
+</body>
+</html>
